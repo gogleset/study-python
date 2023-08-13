@@ -12,5 +12,8 @@ print(my_list)
 my_list.append("ㅎㅎ")  # 맨뒤값넣기
 print(my_list)
 my_list.remove("오예스")  # 값 삭제
-my_list.extend(your_list)
+my_list.extend(your_list) # 값 합치기
 print(my_list)
+
+# [s, b, *a] = my_list
+# print(s, b, a)
