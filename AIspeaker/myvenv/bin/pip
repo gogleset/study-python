@@ -1,4 +1,8 @@
+<<<<<<<< HEAD:AIspeaker/myvenv/bin/pip
 #!/Users/gogleset/study-python/AIspeaker/myvenv/bin/python3.11
+========
+#!/Users/gogleset/study-python/venvworkspace/myenv/bin/python3.11
+>>>>>>>> 64b57fa78fda628f37fd33a7f6726adeb430ce9b:venvworkspace/myenv/bin/pip3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
