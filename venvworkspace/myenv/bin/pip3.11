@@ -1,4 +1,4 @@
-#!/Users/jinchoi/study-python/venvworkspace/myenv/bin/python3
+#!/Users/gogleset/study-python/venvworkspace/myenv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
