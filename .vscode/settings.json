@@ -1,8 +1,0 @@
-{
-  "[python]": {
-    "editor.defaultFormatter": "ms-python.python"
-  },
-  "python.formatting.provider": "none",
-  "cSpell.words": ["xlwings"],
-  "python.analysis.typeCheckingMode": "off"
-}
