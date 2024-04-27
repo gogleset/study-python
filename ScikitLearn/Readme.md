@@ -5,4 +5,4 @@ sklearn.__version__
 
 ### 버전 업데이트
 
-!pip install scikit-learn --user --upgrade
+!pip install scikit-learn --user --upgrade-
